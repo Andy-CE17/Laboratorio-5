@@ -79,3 +79,17 @@ Andy Campos Escandon
 ### PUT - Actualización completa
 ![PUT](docs/piero6.png)
 ![POST](docs/piero7.png)
+
+### DELETE - Eliminación de película
+![DELETE](docs/piero8.png)
+![POST](docs/piero9.png)
+
+### Admin
+
+![Admin](docs/piero10.png)
+
+---
+
+## Autor
+
+Piero Huaytalla Otarola
