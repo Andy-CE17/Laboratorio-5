@@ -4,7 +4,7 @@ Aplicación desarrollada en Django Rest Framework para gestionar películas en u
 
 ---
 
-## Tecnologías utilizadas
+## 🚀 Tecnologías utilizadas
 
 * Python
 * Django
@@ -15,89 +15,72 @@ Aplicación desarrollada en Django Rest Framework para gestionar películas en u
 
 ---
 
-## Capturas de pantalla
+## 📸 Capturas de pantalla
 
-## Autor
+### 🔹 POST - Registro de película
 
-Andy Campos Escandon
+![POST](docs/POST01.png)
 
+### 🔹 Base de datos después del POST
 
-### POST - Registro de película
-
-![POST](docs/POST.png)
-
-### Base de datos-POST
-![POST](docs/BD_POST.png)
+![DB POST](docs/BD_POST01.png)
 
 ---
 
-### GET - Listado de películas
+### 🔹 GET - Listado de películas
 
-![GET](docs/GET.png)
-### Base de datos-GET
-![POST](docs/BD_GET.png)
-### REST_GET
-![POST](docs/Django_REST_1.png)
+![GET](docs/GET01.png)
 
----
+### 🔹 Base de datos - GET
 
-### PATCH - Edición parcial
+![DB GET](docs/BD_GET01.png)
 
-![PATCH](docs/PATCH.png)
-### REST_PATCH
-![POST](docs/Django_REST_2.png)
----
+### 🔹 Vista en Django REST
 
-### PUT - Actualización completa
-
-![PUT](docs/PUT.png)
-### REST_PUT
-![POST](docs/Django_REST_3.png)
+![REST GET](docs/Django_REST_01.png)
 
 ---
 
-### DELETE - Eliminación de película
+### 🔹 PATCH - Edición parcial
 
-![DELETE](docs/DELETE.png)
+![PATCH](docs/PATCH01.png)
 
-### Base de datos-DELETE
-![POST](docs/BD_DELETE.png)
----
+### 🔹 Vista en Django REST (PATCH)
 
-### Admin
-
-![Admin](docs/ADMIN.png)
+![REST PATCH](docs/Django_REST_002.png)
 
 ---
 
+### 🔹 PUT - Actualización completa
 
-## Autor
+![PUT](docs/PUT01.png)
 
-Piero Huaytalla Otarola
+### 🔹 Base de datos después del PUT
 
-### POST - Registro de película
-![POST](docs/piero.png)
-![POST](docs/piero1.png)
+![DB PUT](docs/BD_PUT01.png)
 
-### GET - Listado de películas
-![GET](docs/piero2.png)
-![POST](docs/piero3.png)
+### 🔹 Vista en Django REST (PUT)
 
-### PATCH - Edición parcial
-![PATCH](docs/piero4.png)
-![POST](docs/piero5.png)
-
-### PUT - Actualización completa
-![PUT](docs/piero6.png)
-![POST](docs/piero7.png)
-
-### DELETE - Eliminación de película
-![DELETE](docs/piero8.png)
-![POST](docs/piero9.png)
-
-### Admin
-
-![Admin](docs/piero10.png)
+![REST PUT](docs/Django_REST_003.png)
 
 ---
 
+### 🔹 DELETE - Eliminación de película
+
+![DELETE](docs/DELETE01.png)
+
+### 🔹 Base de datos después del DELETE
+
+![DB DELETE](docs/BD_DELETE01.png)
+
+---
+
+### 🔹 Panel de Administración
+
+![Admin](docs/ADMIN01.png)
+
+---
+
+## 👨‍💻 Autor
+
+**Pablo Isla Arone**
