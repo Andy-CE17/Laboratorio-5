@@ -4,7 +4,7 @@ Aplicación desarrollada en Django Rest Framework para gestionar películas en u
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * Python
 * Django
@@ -15,72 +15,89 @@ Aplicación desarrollada en Django Rest Framework para gestionar películas en u
 
 ---
 
-## 📸 Capturas de pantalla
+## Capturas de pantalla
 
-### 🔹 POST - Registro de película
+## Autor
 
-![POST](docs/POST01.png)
+Andy Campos Escandon
 
-### 🔹 Base de datos después del POST
 
-![DB POST](docs/BD_POST01.png)
+### POST - Registro de película
 
----
+![POST](docs/POST.png)
 
-### 🔹 GET - Listado de películas
-
-![GET](docs/GET01.png)
-
-### 🔹 Base de datos - GET
-
-![DB GET](docs/BD_GET01.png)
-
-### 🔹 Vista en Django REST
-
-![REST GET](docs/Django_REST_01.png)
+### Base de datos-POST
+![POST](docs/BD_POST.png)
 
 ---
 
-### 🔹 PATCH - Edición parcial
+### GET - Listado de películas
 
-![PATCH](docs/PATCH01.png)
-
-### 🔹 Vista en Django REST (PATCH)
-
-![REST PATCH](docs/Django_REST_002.png)
-
----
-
-### 🔹 PUT - Actualización completa
-
-![PUT](docs/PUT01.png)
-
-### 🔹 Base de datos después del PUT
-
-![DB PUT](docs/BD_PUT01.png)
-
-### 🔹 Vista en Django REST (PUT)
-
-![REST PUT](docs/Django_REST_003.png)
+![GET](docs/GET.png)
+### Base de datos-GET
+![POST](docs/BD_GET.png)
+### REST_GET
+![POST](docs/Django_REST_1.png)
 
 ---
 
-### 🔹 DELETE - Eliminación de película
+### PATCH - Edición parcial
 
-![DELETE](docs/DELETE01.png)
+![PATCH](docs/PATCH.png)
+### REST_PATCH
+![POST](docs/Django_REST_2.png)
+---
 
-### 🔹 Base de datos después del DELETE
+### PUT - Actualización completa
 
-![DB DELETE](docs/BD_DELETE01.png)
+![PUT](docs/PUT.png)
+### REST_PUT
+![POST](docs/Django_REST_3.png)
 
 ---
 
-### 🔹 Panel de Administración
+### DELETE - Eliminación de película
 
-![Admin](docs/ADMIN01.png)
+![DELETE](docs/DELETE.png)
+
+### Base de datos-DELETE
+![POST](docs/BD_DELETE.png)
+---
+
+### Admin
+
+![Admin](docs/ADMIN.png)
 
 ---
 
-## 👨‍💻 Autor
 
-**Pablo Isla Arone**
+## Autor
+
+Piero Huaytalla Otarola
+
+### POST - Registro de película
+![POST](docs/piero.png)
+![POST](docs/piero1.png)
+
+### GET - Listado de películas
+![GET](docs/piero2.png)
+![POST](docs/piero3.png)
+
+### PATCH - Edición parcial
+![PATCH](docs/piero4.png)
+![POST](docs/piero5.png)
+
+### PUT - Actualización completa
+![PUT](docs/piero6.png)
+![POST](docs/piero7.png)
+
+### DELETE - Eliminación de película
+![DELETE](docs/piero8.png)
+![POST](docs/piero9.png)
+
+### Admin
+
+![Admin](docs/piero10.png)
+
+---
+
