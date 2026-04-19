@@ -19,8 +19,7 @@ Aplicación desarrollada en Django Rest Framework para gestionar películas en u
 
 ## Autor
 
-Andy Campos Escandon
-
+Piero Huaytalla Otarola
 
 ### POST - Registro de película
 
@@ -101,6 +100,3 @@ Andy Campos Escandon
 
 ---
 
-## Autor
-
-Piero Huaytalla Otarola
