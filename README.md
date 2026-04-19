@@ -36,6 +36,7 @@ Andy Campos Escandon
 ![GET](docs/GET.png)
 ### Base de datos-GET
 ![POST](docs/BD_GET.png)
+### REST_GET
 ![POST](docs/Django_REST_1.png)
 
 ---
@@ -43,12 +44,14 @@ Andy Campos Escandon
 ### PATCH - Edición parcial
 
 ![PATCH](docs/PATCH.png)
+### REST_PATCH
 ![POST](docs/Django_REST_2.png)
 ---
 
 ### PUT - Actualización completa
 
 ![PUT](docs/PUT.png)
+### REST_PUT
 ![POST](docs/Django_REST_3.png)
 
 ---
