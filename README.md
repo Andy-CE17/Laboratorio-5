@@ -63,3 +63,19 @@ Aplicación desarrollada en Django Rest Framework para gestionar películas en u
 ## Autor
 
 Andy Campos Escandon
+
+### POST - Registro de película
+![POST](docs/piero.png)
+![POST](docs/piero1.png)
+
+### GET - Listado de películas
+![GET](docs/piero2.png)
+![POST](docs/piero3.png)
+
+### PATCH - Edición parcial
+![PATCH](docs/piero4.png)
+![POST](docs/piero5.png)
+
+### PUT - Actualización completa
+![PUT](docs/piero6.png)
+![POST](docs/piero7.png)
