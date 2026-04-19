@@ -17,11 +17,16 @@ Aplicación desarrollada en Django Rest Framework para gestionar películas en u
 
 ## Capturas de pantalla
 
+## Autor
+
+Andy Campos Escandon
 
 
 ### POST - Registro de película
 
 ![POST](docs/POST.png)
+
+### Base de datos-POST
 ![POST](docs/BD_POST.png)
 
 ---
@@ -29,7 +34,9 @@ Aplicación desarrollada en Django Rest Framework para gestionar películas en u
 ### GET - Listado de películas
 
 ![GET](docs/GET.png)
+### Base de datos-GET
 ![POST](docs/BD_GET.png)
+### REST_GET
 ![POST](docs/Django_REST_1.png)
 
 ---
@@ -37,12 +44,14 @@ Aplicación desarrollada en Django Rest Framework para gestionar películas en u
 ### PATCH - Edición parcial
 
 ![PATCH](docs/PATCH.png)
+### REST_PATCH
 ![POST](docs/Django_REST_2.png)
 ---
 
 ### PUT - Actualización completa
 
 ![PUT](docs/PUT.png)
+### REST_PUT
 ![POST](docs/Django_REST_3.png)
 
 ---
@@ -50,15 +59,17 @@ Aplicación desarrollada en Django Rest Framework para gestionar películas en u
 ### DELETE - Eliminación de película
 
 ![DELETE](docs/DELETE.png)
+
+### Base de datos-DELETE
 ![POST](docs/BD_DELETE.png)
 ---
-
 
 ### Admin
 
 ![Admin](docs/ADMIN.png)
 
 ---
+
 
 ## Autor
 
