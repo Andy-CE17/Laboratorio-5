@@ -33,11 +33,33 @@ python manage.py createsuperuser
 python manage.py runserver
 
 8. Acceder al sistema
-API Root: http://127.0.0.1:8000/api/
 
-Movies API: http://127.0.0.1:8000/api/movies/
+API Root:
+http://127.0.0.1:8000/api/
 
-Admin: http://127.0.0.1:8000/admin/
+---
+Movies API
+http://127.0.0.1:8000/api/movies/
+
+---
+Genres API
+http://127.0.0.1:8000/api/genres/
+
+---
+Rooms API
+http://127.0.0.1:8000/api/rooms/
+
+---
+Showtimes API
+http://127.0.0.1:8000/api/showtimes/
+
+---
+Tickets API
+http://127.0.0.1:8000/api/tickets/
+
+---
+Admin
+http://127.0.0.1:8000/admin/
 ```
 ### Salas (Room) y Funciones (Showtime) – Andy Campos Escandon
 
