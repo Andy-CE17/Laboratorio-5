@@ -1,5 +1,33 @@
 ## API CINESPOILERS – PRUEBAS COMPLETAS
 
+## Autor
+Piero Huaytalla Otarola
+
+## Genre List
+![POST](docs\PieroGenreList.png)
+
+## Get Genres
+![POST](docs\PieroGetGenres.png)
+
+## Post Genres
+![POST](docs\PieroPostGenres.png)
+
+## Put Genres
+![POST](docs\PieroPutGenres.png)
+
+## Patch Genres
+![POST](docs\PieroPatchGenres.png)
+
+## Delete Genres
+![POST](docs\PieroDeleteGenres.png)
+
+## Post Movie
+![POST](docs\PieroPostM.png)
+
+
+## AUTOR
+Pablo Isla Arone
+
 ## MOVIES
 1. GET – Listado de películas
 ![GET](docs/LISTAR.png)
