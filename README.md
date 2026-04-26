@@ -1,28 +1,68 @@
-## API CINESPOILERS – PRUEBAS COMPLETAS
+# Implementación de API REST
+---
+## Andy Campos Escandon
+## Piero Huaytalla Otarola
+## Pablo Isla Arone
+
+---
+
+## Ejecución del proyecto (clonado)
+
+### 1. Clonar repositorio
+
+```bash
+git clone https://github.com/Andy-CE17/Laboratorio-5.git
+cd cinespoilers
+
+2. Crear entorno virtual
+python -m venv venv
+
+3. Activar entorno virtual (Windows)
+venv\Scripts\activate
+
+4. Instalar dependencias
+pip install -r requirements.txt
+
+5. Aplicar migracionesgit status
+python manage.py migrate
+
+6. Crear superusuario (opcional)
+python manage.py createsuperuser
+
+7. Ejecutar servidor
+python manage.py runserver
+
+8. Acceder al sistema
+API Root: http://127.0.0.1:8000/api/
+
+Movies API: http://127.0.0.1:8000/api/movies/
+
+Admin: http://127.0.0.1:8000/admin/
+```
 
 ## Autor
 Piero Huaytalla Otarola
 
 ## Genre List
-![POST](docs\PieroGenreList.png)
+![POST](docs/PieroGenreList.png)
 
 ## Get Genres
-![POST](docs\PieroGetGenres.png)
+![POST](docs/PieroGetGenres.png)
 
 ## Post Genres
-![POST](docs\PieroPostGenres.png)
+![POST](docs/PieroPostGenres.png)
 
 ## Put Genres
-![POST](docs\PieroPutGenres.png)
+![POST](docs/PieroPutGenres.png)
 
 ## Patch Genres
-![POST](docs\PieroPatchGenres.png)
+![POST](docs/PieroPatchGenres.png)
 
 ## Delete Genres
-![POST](docs\PieroDeleteGenres.png)
+![POST](docs/PieroDeleteGenres.png)
 
 ## Post Movie
-![POST](docs\PieroPostM.png)
+![POST](docs/PieroPostM.png)
 
 
 ## AUTOR
