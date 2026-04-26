@@ -39,9 +39,29 @@ Movies API: http://127.0.0.1:8000/api/movies/
 
 Admin: http://127.0.0.1:8000/admin/
 ```
+### Salas (Room) y Funciones (Showtime) – Andy Campos Escandon
 
-## Autor
-Piero Huaytalla Otarola
+## Creación de sala (POST)
+![POST](docs/room_post.png.png)
+![POST](docs/B_ROOM.png)
+
+## Creación de función (POST)
+![POST](docs/show_post.png.png)
+![POST](docs/BD_SHOWTIMES.png)
+
+## Actualización completa (PUT)
+![POST](docs/show_put.png.png)
+![POST](docs/BD_SHOWPUT.png)
+
+## Actualización parcial (PATCH)
+![POST](docs/show_patch.png)
+![POST](docs/BD_PATCH.png)
+
+### Eliminación de función (DELETE)
+![POST](docs/show_delete.png)
+![POST](docs/BD_DELETE.png)
+
+## Piero Huaytalla Otarola
 
 ## Genre List
 ![POST](docs/PieroGenreList.png)
